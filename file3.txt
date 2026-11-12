@@ -1,2 +1,3 @@
 Creating new file called file3.txt
 Learning Git status command
+Learning cloning and pulling
